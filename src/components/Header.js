@@ -95,6 +95,8 @@ const Header = () => {
               ],
               autoStart: true,
               loop: true,
+              deleteSpeed: 20,
+              delay: 80,
             }}
           />
         </motion.div>
